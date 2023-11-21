@@ -26,7 +26,7 @@ There is a recent trend that leverages neural models for automated evaluation in
 Basic requirements for all the libraries are in the `requirements.txt.`
 
 ### Direct use
-Our trained BARTScore (on ParaBank2) can be downloaded [here](https://drive.google.com/file/d/1_7JfF7KOInb7ZrxKHIigTMR4ChVET01m/view?usp=sharing). Example usage is shown below.
+Our trained BARTScore (on ParaBank2) can be downloaded [here](https://huggingface.co/Incompleted/BARTScore). Example usage is shown below.
 
 ```python
 # To use the CNNDM version BARTScore
